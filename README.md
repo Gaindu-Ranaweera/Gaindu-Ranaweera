@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Gaindu-Ranaweera/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Gaindu-Ranaweera&theme=juicyfresh&row=1&column=7" alt="Gaindu-Ranaweera"/>
   </a>
 </p>
