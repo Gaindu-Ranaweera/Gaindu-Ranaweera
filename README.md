@@ -48,16 +48,33 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/gaindu-ranaweera" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+
+  <a href="https://www.instagram.com/gaindu_ranaweera_official" target="_blank" style="margin-right:10px;">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="instagram" 
+         height="30" 
+         width="40" />
   </a>
-  <a href="https://instagram.com/gaindu_ranaweera_official" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="30" />
+
+  <a href="https://www.linkedin.com/in/gaindu-ranaweera" target="_blank" style="margin-right:10px;">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="linkedin" 
+         height="30" 
+         width="40" />
   </a>
-  <a href="https://twitter.com/gaindu_ranaweera" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+
+  <a href="https://web.facebook.com/gaindu_ranaweera" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="facebook" 
+         height="30" 
+         width="40" />
   </a>
+
 </p>
+
 
 ---
 
@@ -71,7 +88,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -86,7 +103,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=pos-saas-system&theme=dark" alt="POS SAAS System"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=HR-System&theme=dark" alt="HRM System"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=HR-System&theme=dark" alt="HRM System"/> -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=ecommerce-react&theme=dark" alt="E-commerce React"/>
 </p>
 
