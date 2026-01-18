@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Gaindu Ranaweera
 
-<img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="600" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" height="300" alt="Coding GIF"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+Expert+%F0%9F%94%A5;React+Specialist+%E2%9A%9B%EF%B8%8F;CEO+of+Codezura+IT+Solutions+%F0%9F%92%BC;Freelancer+%F0%9F%8C%8D;Turning+Ideas+into+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
