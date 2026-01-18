@@ -77,15 +77,31 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Gaindu-Ranaweera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaindu-Ranaweera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaindu-Ranaweera&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="600"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaindu-Ranaweera&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaindu-Ranaweera&theme=tokyonight" alt="Profile Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaindu-Ranaweera&theme=tokyonight" alt="Stats" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaindu-Ranaweera&theme=tokyonight" alt="Productive Time" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaindu-Ranaweera&theme=tokyonight" alt="Repos per Language" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaindu-Ranaweera&theme=tokyonight" alt="Most Commit Language" height="200"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -103,15 +119,52 @@
 
 <div align="center">
 
-<a href="https://github.com/Gaindu-Ranaweera/pos-saas-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=pos-saas-system&theme=tokyonight&hide_border=true" alt="POS SAAS System"/>
-</a>
+### 🚀 Active Projects
 
-<a href="https://github.com/Gaindu-Ranaweera/ecommerce-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaindu-Ranaweera&repo=ecommerce-react&theme=tokyonight&hide_border=true" alt="E-commerce React"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 POS SAAS System</h3>
+      <a href="https://github.com/Gaindu-Ranaweera/pos-saas-system">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="POS SAAS System"/>
+      </a>
+      <br><br>
+      <p><strong>🔧 Tech:</strong> Laravel | MySQL | React</p>
+      <p>A comprehensive Point of Sale Software as a Service solution</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛒 E-commerce React</h3>
+      <a href="https://github.com/Gaindu-Ranaweera/ecommerce-react">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-commerce React"/>
+      </a>
+      <br><br>
+      <p><strong>🔧 Tech:</strong> React | Node.js | PostgreSQL</p>
+      <p>Full-stack e-commerce platform built with PERN stack</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏦 Bank Management System</h3>
+      <a href="https://github.com/Gaindu-Ranaweera/bank-management-system">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bank Management System"/>
+      </a>
+      <br><br>
+      <p><strong>🔧 Tech:</strong> Java | MySQL</p>
+      <p>Comprehensive banking solution for managing accounts and transactions</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>✨ More Projects Coming Soon!</h3>
+      <a href="https://github.com/Gaindu-Ranaweera?tab=repositories">
+        <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+      </a>
+      <br><br>
+      <p>🚀 Check out my other projects</p>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
